@@ -109,7 +109,7 @@ graph LR
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ilia-Habibi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Ilia's GitHub Stats" /> | <img src="https://streak-stats.demolab.com?user=Ilia-Habibi&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Ilia's Streak Stats" /> |
 |---|---|
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ilia-Habibi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&hide=Jupyter%20Notebook" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ilia-Habibi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" />
 
 </div>
 
