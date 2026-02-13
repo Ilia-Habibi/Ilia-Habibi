@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Ilia+%F0%9F%91%8B;Aspiring+AI+Engineer+%7C+Python+Developer+%7C+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Ilia+%F0%9F%91%8B;+Aspiring+AI+Engineer+%7C+Python+Dev+%7C+Builder+)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -77,57 +77,6 @@ for goal in me.future_goals():
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Ilia-Habibi/Decision-Tree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ilia-Habibi&repo=Decision-Tree&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Ilia-Habibi/Playlist-Pirate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ilia-Habibi&repo=Playlist-Pirate&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Ilia-Habibi/CShot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ilia-Habibi&repo=CShot&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Ilia-Habibi/Task-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ilia-Habibi&repo=Task-Manager&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-### 🌳 [Decision Tree Classifier](https://github.com/Ilia-Habibi/Decision-Tree) `🤖 AI/ML`
-> 🧠 A complete **Machine Learning** project implementing Decision Tree classification
-> - Built a **Decision Tree Classifier** in a Jupyter Notebook on airline passenger data
-> - Feature engineering, model training, evaluation & **tree visualization**
-> - Hands-on workshop with real-world dataset (`Airplane.csv` �� 12MB+)
-> - **Tech:** Python, scikit-learn, pandas, matplotlib, Jupyter Notebook
-
-### 🏴‍☠️ [Playlist Pirate](https://github.com/Ilia-Habibi/Playlist-Pirate) `👁️ Computer Vision`
-> 🎧 Automated music library migration using **OCR + YouTube Music API**
-> - Smart OCR engine with **Adaptive Thresholding** (OpenCV + Tesseract)
-> - Intelligent deduplication with **SQLite** database
-> - Auto metadata tagging (Cover Art, Artist, Album) with **Mutagen**
-> - Full download pipeline with **yt-dlp** & **FFmpeg**
-
-### 🎯 [CShot](https://github.com/Ilia-Habibi/CShot) `🎮 Game Dev`
-> 🕹️ A fun **target-shooting game** built with Pygame
-> - Score multiplier power-ups, extra ammo & time bonuses
-> - Custom graphics, fonts & sound effects
-> - Multi-threaded game mechanics
-
-### ✅ [Task Manager CLI](https://github.com/Ilia-Habibi/Task-Manager) `⚙️ CLI Tool`
-> 📋 A powerful CLI task manager with **zero dependencies**
-> - Priority levels (High/Medium/Low) with colored terminal output
-> - Categories, deadlines & smart search/filter
-> - Persistent JSON storage — runs anywhere with Python 3.6+
-
-### 📚 [Data Structures](https://github.com/Ilia-Habibi/Data-Structurs) `🏗️ CS Fundamentals`
-> 🏗️ Classic data structure implementations in **C++** and **Python**
-> - Hands-on practice with fundamental computer science concepts
-
----
-
 ## 🗺️ Roadmap — My Path to AI
 
 ```mermaid
@@ -157,32 +106,10 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ilia-Habibi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilia-Habibi&theme=tokyonight&hide_border=true&border_radius=10" />
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ilia-Habibi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Ilia's GitHub Stats" /> | <img src="https://streak-stats.demolab.com?user=Ilia-Habibi&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Ilia's Streak Stats" /> |
+|---|---|
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilia-Habibi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ilia-Habibi&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Ilia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ilia-Habibi&theme=tokyo-night&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ilia-Habibi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -192,18 +119,18 @@ graph LR
 
 ### 🤝 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ilia--Habibi-181717?style=for-the-badge&logo=github)](https://github.com/Ilia-Habibi)
+<a href="https://linkedin.com/in/ilia-habibi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Ilia-Habibi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Ilia-Habibi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
-<br/><br/>
-
-```
-  "The best way to predict the future is to build it."
-                         — Alan Kay
-```
 
 *⭐ If you like my projects, consider giving them a star!*
 
