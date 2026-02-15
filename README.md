@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Ilia+%F0%9F%91%8B;+Aspiring+AI+Engineer+%7C+Python+Dev+%7C+Builder+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Ilia+%F0%9F%91%8B;+Aspiring+AI+Engineer+%7C+Computer+Science+Student)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
