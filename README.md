@@ -77,31 +77,6 @@ for goal in me.future_goals():
 
 ---
 
-## 🗺️ Roadmap — My Path to AI
-
-```mermaid
-graph LR
-    A[🎓 CS Degree] --> B[🐍 Python Mastery]
-    B --> C[👁️ Computer Vision<br/>OpenCV + OCR]
-    B --> D[🌳 Machine Learning<br/>Decision Trees]
-    C --> E[🎯 MSc in AI]
-    D --> E
-    E --> F[🧠 Deep Learning]
-    E --> G[🤖 NLP]
-    E --> H[🔬 AI Research]
-    
-    style A fill:#1a1b27,stroke:#58A6FF,color:#c0caf5
-    style B fill:#1a1b27,stroke:#9ece6a,color:#c0caf5
-    style C fill:#1a1b27,stroke:#bb9af7,color:#c0caf5
-    style D fill:#1a1b27,stroke:#e0af68,color:#c0caf5
-    style E fill:#ff6b6b,stroke:#ff6b6b,color:#1a1b27,stroke-width:3px
-    style F fill:#1a1b27,stroke:#7aa2f7,color:#c0caf5
-    style G fill:#1a1b27,stroke:#7dcfff,color:#c0caf5
-    style H fill:#1a1b27,stroke:#c0caf5,color:#c0caf5
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
